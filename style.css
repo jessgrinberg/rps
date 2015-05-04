@@ -1,0 +1,57 @@
+    h1 {
+        color : white;
+        font-family: 'Sigmar One', cursive;
+        font-size: 50px;
+        text-align: center;
+        position: relative;
+        top: 250px;
+    }
+
+    h2 {
+        color : white;
+        font-family: 'Sigmar One', cursive;
+        text-align: center;
+        position: relative; 
+        top: 255px;
+    }
+
+    body {
+        background: url("http://www.wallpaper4me.com/images/wallpapers/rock_paper_scissors_w1.jpeg");
+        background-size: 100%;
+        background-repeat: repeat;
+        background-position: center;
+        width: 100%;
+
+    }
+
+    button {
+        display: table;
+        margin: 0 auto;
+        position: relative;
+        top: 260px;
+        width: 100px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: white;
+        border: none;
+
+    }
+
+    footer {
+        color : white;
+        text-align: center;
+        position: bottom;
+        margin: 2%;
+        font-style: italic;
+        position: relative;
+        top: 265px;
+
+    }
+
+    #play_bt {
+        text-align: center;
+        font-family: 'Sigmar One', cursive;
+        color: #7A9547;
+        font-size: 70%;
+
+    }
